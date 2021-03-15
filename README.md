@@ -1,1 +1,3 @@
-# Kelda-data-analysis
+# Kelda data analysis
+
+This is a custom piece of code written for Kelda Showers (Kelda Technology). It reads a proprietary data logger with set columns and converts the logging data into statistical time-series based charts for clients. This allows clients to observe the water usage of the shower, whether that be a Kelda shower or their current system. The water usage is displayed as an hourly rate on an interative plot.ly graph. In addition the code is able to identify user behaviours such as duration of showers as well as number of operations. There is also some data analysis performed on the motor for diagnostic purposes. 
